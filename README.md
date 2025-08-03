@@ -46,7 +46,6 @@ MIN_DEPOSIT=100
 MAX_DEPOSIT=10000
 
 # ===== API Settings =====
-WEBHOOK_SECRET=your_secure_token
 API_HOST=0.0.0.0
 API_PORT=3000
 ```
