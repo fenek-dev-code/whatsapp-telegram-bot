@@ -1,6 +1,6 @@
 # WhatsApp Parser Integrated Telegram Bot 🚀
 
-![Меме](https://img-webcalypt.ru/uploads/admin/images/meme-templates/vBTD9cBjZurckxkYtl4plerdMBVotX79.jpg)
+![Меме]([https://img-webcalypt.ru/uploads/admin/images/meme-templates/vBTD9cBjZurckxkYtl4plerdMBVotX79.jpg](https://i.pinimg.com/736x/90/de/2d/90de2d8722ce2105f7eb0e8c3a6dc98b.jpg))
 
 Этот проект представляет собой интегрированное решение, объединяющее Telegram бота с парсером WhatsApp для автоматизации работы с сообщениями и платежами.
 
